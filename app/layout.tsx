@@ -11,23 +11,22 @@ export const metadata: Metadata = {
   title: "Xyrel Vaughn Delos Santos | IT Specialist & Full-Stack Developer",
   description:
     "Full-Stack Developer • IT Specialist • System & Web Solutions Builder. Building systems, solving problems, and delivering impact.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/my-dev//XVD.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/my-dev//XVD.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/my-dev//icon.svg",
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "/my-dev/XVD.png",
   },
 }
 
