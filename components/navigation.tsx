@@ -50,7 +50,7 @@ export function Navigation() {
                 <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-accent group-hover:w-full transition-all duration-300" />
               </a>
             ))}
-            <a href="/my-dev/Xyrel Vaughn Delos Santos.pdf" download="Xyrel-Vaughn-Delos-Santos.pdf">
+            <a href="/Xyrel Vaughn Delos Santos.pdf" download="Xyrel-Vaughn-Delos-Santos.pdf">
             <Button size="sm" className="bg-primary text-primary-foreground hover:bg-primary/90">
               Download Résumé
             </Button>
