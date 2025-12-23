@@ -2,7 +2,7 @@
 
 import { useInView } from "@/hooks/use-in-view"
 import { Button } from "@/components/ui/button"
-import { Mail, Phone, Facebook, Github } from "lucide-react"
+import { Mail, Phone, Facebook, Github, Linkedin } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 export function ContactSection() {
@@ -121,6 +121,13 @@ export function ContactSection() {
             aria-label="Facebook"
           >
             <Facebook className="h-5 w-5 group-hover:text-accent transition-colors" />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/xyrel-vaughn-delos-santos-603468399"
+            className="p-3 rounded-full border border-primary-foreground/30 hover:bg-primary-foreground/10 hover:border-accent transition-all duration-300 group"
+            aria-label="GitHub"
+          >
+            <Linkedin className="h-5 w-5 group-hover:text-accent transition-colors" />
           </a>
           <a
             href="https://github.com/XVDel0Saint"
