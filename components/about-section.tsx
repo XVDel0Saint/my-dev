@@ -64,7 +64,7 @@ export function AboutSection() {
                 <div className="absolute -inset-4 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-2xl blur-xl" />
                 <div className="relative w-full h-full rounded-2xl overflow-hidden border-4 border-secondary/30 shadow-2xl">
                   <Image
-                    src="../public/Me4 - tinified.png"
+                    src="/Me4 - tinified.png"
                     alt="Xyrel Vaughn Delos Santos"
                     fill
                     className="object-cover"
