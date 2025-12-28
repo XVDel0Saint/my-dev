@@ -41,7 +41,7 @@ export function AboutSection() {
                 isInView ? "opacity-100 scale-100" : "opacity-0 scale-95",
               )}
             >
-              <Image src="/Me4 - tinified.png" alt="Xyrel Vaughn Delos Santos" fill className="object-cover" />
+              <Image src="/my-dev/Me4 - tinified.png" alt="Xyrel Vaughn Delos Santos" fill className="object-cover" />
             </div>
 
             <div className="space-y-4">
