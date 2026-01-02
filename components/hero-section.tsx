@@ -141,7 +141,7 @@ export function HeroSection() {
             </div>
 
             <div className="flex flex-wrap gap-4 opacity-0 animate-fade-up delay-300">
-              <a href="/Xyrel Vaughn Delos Santos.pdf" download="Xyrel-Vaughn-Delos-Santos.pdf">
+              <a href="/my-dev/Xyrel Vaughn Delos Santos - Updated.pdf" download="Xyrel-Vaughn-Delos-Santos.pdf">
               <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 group">
                 <Download className="mr-2 h-4 w-4 group-hover:animate-bounce" />
                 Download Résumé
