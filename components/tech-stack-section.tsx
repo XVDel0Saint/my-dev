@@ -15,6 +15,7 @@ import {
 
 import { 
   SiTypescript,
+  SiCplusplus,
   SiVuedotjs,
   SiArduino,
   SiRaspberrypi, 
@@ -31,7 +32,7 @@ const techStack = {
     { name: "Java", icon: DiJava },
     { name: "Python", icon: DiPython },
     { name: "PHP", icon: DiPhp },
-    { name: "C++", icon: DiJavascript1 }, 
+    { name: "C++", icon: SiCplusplus }, 
     { name: "TypeScript", icon: SiTypescript },
     { name: "JavaScript", icon: DiJavascript1 },
   ],
