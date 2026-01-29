@@ -98,7 +98,7 @@ export function SkillsSection() {
 
         <p
           className={cn(
-            "text-center mt-12 text-foreground/60 font-medium italic transition-all duration-700 delay-500",
+            "text-center mt-12 text-foreground/60 font-medium italic transition-all duration-100",
             isInView ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4",
           )}
         >
