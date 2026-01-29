@@ -72,7 +72,7 @@ export function SkillsSection() {
                 "bg-card border-border hover:border-accent/50 hover:shadow-lg transition-all duration-500 group",
                 isInView ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8",
               )}
-              style={{ transitionDelay: `${(index + 2) * 100}ms` }}
+              style={{ transitionDelay: `${(index + 2) * 10}ms` }}
             >
               <CardHeader className="pb-2">
                 <div className="flex items-center gap-3">
