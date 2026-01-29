@@ -56,7 +56,7 @@ export function SkillsSection() {
           </p>
           <h2
             className={cn(
-              "text-3xl sm:text-4xl font-bold text-primary mt-2 transition-all duration-700 delay-100",
+              "text-3xl sm:text-4xl font-bold text-primary mt-2 transition-all duration-700",
               isInView ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4",
             )}
           >
