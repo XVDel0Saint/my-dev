@@ -15,12 +15,12 @@ const skills = [
     ],
   },
   {
-    icon: Server,
-    title: "Systems & IT Support",
+    icon: Wifi,
+    title: "Network & Infrastructure Fundamentals",
     items: [
-      "Troubleshooting, OS config, server maintenance",
-      "Documentation & process optimization",
-      "Technical support & cross-department collaboration",
+      "Local network configuration and endpoint connectivity",
+      "Basic switch and router setup, including VLAN awareness",
+      "Network troubleshooting and performance optimization in office environments",
     ],
   },
   {
