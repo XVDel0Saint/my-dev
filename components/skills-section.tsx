@@ -15,12 +15,12 @@ const skills = [
     ],
   },
   {
-    icon: Wifi,
-    title: "Network & Infrastructure Fundamentals",
+    icon: Server,
+    title: "Systems & IT Support",
     items: [
-      "Local network configuration and endpoint connectivity",
-      "Basic switch and router setup, including VLAN awareness",
-      "Network troubleshooting and performance optimization in office environments",
+      "Troubleshooting, OS config, server maintenance",
+      "Documentation & process optimization",
+      "Technical support & cross-department collaboration",
     ],
   },
   {
@@ -30,11 +30,11 @@ const skills = [
   },
   {
     icon: Wifi,
-    title: "Small-Scale Networking",
+    title: "Network & Infrastructure Fundamentals",
     items: [
-      "WiFi configuration, router setup",
-      "Basic network troubleshooting & optimization",
-      "Office setup & IT operations assistance",
+      "Local network configuration and endpoint connectivity",
+      "Basic switch and router setup, including VLAN awareness",
+      "Network troubleshooting and performance optimization in office environments",
     ],
   },
 ]
