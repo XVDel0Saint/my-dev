@@ -7,11 +7,11 @@ import { cn } from "@/lib/utils"
 const skills = [
   {
     icon: Code,
-    title: "Software & Web Development",
+    title: "Software & Web Engineering",
     items: [
-      "Laravel, Vue.js, API Integrations",
-      "Custom WordPress plugin & theme development",
-      "Full-stack system building (front to back)",
+      "Design and development of full-stack web applications",
+      "API design, third-party integrations, and workflow automation",
+      "Custom WordPress themes, plugins, and platform-level extensions",
     ],
   },
   {
