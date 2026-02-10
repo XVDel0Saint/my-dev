@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils"
 const experiences = [
   {
     period: "2024–2025",
-    role: "Software Developer | IT Specialist",
+    role: "Web Developer | IT Specialist",
     company: "Starlegends Adventures Inc.",
     tagline: "Solving problems, streamlining operations, and building smarter systems.",
     highlights: [
