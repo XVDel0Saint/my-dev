@@ -29,7 +29,7 @@ const projects = [
     link: "https://drive.google.com/drive/folders/1l1Da4Uj70Npgc-Rt5GQK0y677vkpeWmg?usp=sharing",
   },
   {
-    title: "Food Menu Web UI & Landing Pages",
+    title: "Static Web UI & Landing Pages",
     description: "Single Page multi selection menu and landing pages dedicated for small scale businesses selling and showcasing variety of products",
     tags: ["HTML", "CSS"],
     image: "/my-dev/Sizzling Steak.png",
