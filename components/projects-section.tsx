@@ -36,8 +36,8 @@ const projects = [
     link: "https://drive.google.com/drive/folders/1KuNy_bbazyzq0CqwWtbeobxta0Z-XIrp?usp=drive_link",
   },
   {
-    title: "Music Player & Video Library Web Apps",
-    description: "Recreating, and feawtured web design of such music players and video libraries inspired from current trends.",
+    title: "Full stack Web Apps",
+    description: "Recreating, and featured web design of software web systems such music SaaS Dashboard Analytics and media interfaces inspired from current trends and more.",
     tags: ["Laravel", "Vue", "MySQL"],
     image: "/my-dev/VideoLib.png",
     link: "https://drive.google.com/drive/folders/1vH7BlArn3-is5XeO4jpOPRBQQry5Hsp-?usp=sharing",
